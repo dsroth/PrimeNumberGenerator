@@ -1,0 +1,16 @@
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\obj\Debug\net5.0\PrimalityTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\obj\Debug\net5.0\PrimalityTest.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\obj\Debug\net5.0\PrimalityTest.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\obj\Debug\net5.0\PrimalityTest.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\bin\Debug\net5.0\PrimalityTest.exe
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\bin\Debug\net5.0\PrimalityTest.deps.json
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\bin\Debug\net5.0\PrimalityTest.runtimeconfig.json
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\bin\Debug\net5.0\PrimalityTest.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\bin\Debug\net5.0\PrimalityTest.dll
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\bin\Debug\net5.0\ref\PrimalityTest.dll
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\bin\Debug\net5.0\PrimalityTest.pdb
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\obj\Debug\net5.0\PrimalityTest.dll
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\obj\Debug\net5.0\ref\PrimalityTest.dll
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\obj\Debug\net5.0\PrimalityTest.pdb
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\obj\Debug\net5.0\PrimalityTest.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\PrimalityTest\PrimalityTest\obj\Debug\net5.0\PrimalityTest.csproj.AssemblyReference.cache
